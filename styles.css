@@ -11076,3 +11076,13 @@ body {
     height: 100px;
     margin-right: 10px;
   }
+  .privacy-content {
+    color: #000;
+    padding: 10px;
+    font-size: 20px;
+  }
+  .news-content i {
+    color: #000;
+    font-size: 22px;
+    font-weight: 600;
+  }
