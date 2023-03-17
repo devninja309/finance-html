@@ -4620,10 +4620,10 @@ body {
   /*----- End Home Four CSS -----*/
   /*----- Home Five CSS -----*/
   /*-- Banner --*/
-  .five-banner-area {
+  /* .five-banner-area {
     height: 1000px;
     position: relative;
-  }
+  } */
   .five-banner-area .banner-shape img {
     position: absolute;
     z-index: -1;
@@ -8851,10 +8851,12 @@ body {
     font-weight: 400;
     transition: 0.5s all ease;
     border-radius: 10px;
+    cursor: pointer;
   }
   .banner-buy-content .banner-buy-btn li .main-optional-btn:hover {
     background-color: #00a084;
     color: #ffffff;
+    cursor: pointer;
   }
   .banner-buy-info-card {
     position: relative;
@@ -11085,4 +11087,7 @@ body {
     color: #000;
     font-size: 22px;
     font-weight: 600;
+  }
+  .main-optional-btn {
+    cursor: pointer;
   }
