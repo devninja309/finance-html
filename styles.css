@@ -4699,7 +4699,7 @@ body {
     height: 100%;
     top: 0;
     left: 0;
-    background: linear-gradient(90deg, #10c317 23%, #15d09a 64%);
+    background: linear-gradient(270deg, #29abe2 0%, #2e3191 100%);
     opacity: 0;
     z-index: -1;
   }
@@ -4766,7 +4766,7 @@ body {
     height: 100%;
     top: 0;
     left: 0;
-    background: linear-gradient(90deg, #10c317 23%, #15d09a 64%);
+    background: linear-gradient(270deg, #29abe2 0%, #2e3191 100%);
     z-index: -1;
     transition: 0.5s all ease;
   }
@@ -4785,7 +4785,7 @@ body {
     line-height: 45px;
   }
   .five-banner-area .banner-content .banner-form .tab-content form .banner-call:hover {
-    background-color: #12ca59;
+    background: linear-gradient(270deg, #29abe2 0%, #2e3191 100%);
   }
   @keyframes five-banner {
     0% {
@@ -6076,7 +6076,7 @@ body {
     z-index: 10;
   }
   .back-to-top-btn i {
-    background: #12ca59;
+    background: #29abe2;
     color: #ffffff;
     height: 50px;
     width: 50px;
@@ -6090,7 +6090,7 @@ body {
     box-shadow: 0px 0px 14px 0px #12ca59;
   }
   .back-to-top-btn i:hover {
-    background: #0d1820;
+    background: #2e3191;
     color: #ffffff;
     box-shadow: 0px 0px 14px 0px #333333a6;
   }
